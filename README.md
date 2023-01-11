@@ -6,3 +6,6 @@ I chose the topic because I am very interested in the topic of breast cancer due
 
 Link to my presentation poster:
 https://docs.google.com/presentation/d/1V-JUxWOHbMUbfESVwkWxG2CmPukB5Yzc/edit?usp=sharing&ouid=109050810061726264195&rtpof=true&sd=true
+
+
+The Subtyped Data file is the data after I assigned the corresponding subtypes to each data source using code seen in Oct_25 code
